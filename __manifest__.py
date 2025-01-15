@@ -1,6 +1,6 @@
 {
     'name': 'Mobile Service Management',
-    'version': '18.0.1.0.0',
+    'version': '1.0',
     'summary': 'Module for managing mobile service shop daily activities.',
     'description':'This module provides an all-in-one solution for mobile'
                   ' service centers, helping them efficiently manage operations'
